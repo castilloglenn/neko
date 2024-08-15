@@ -1,3 +1,5 @@
 """Entry point for the application."""
 
-print("Hello world")
+
+def main():
+    print("Hello, world!")
