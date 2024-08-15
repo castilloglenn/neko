@@ -1,0 +1,5 @@
+[MESSAGES CONTROL]
+# Disable the following messages:
+disable=
+    C0114,  # Missing module docstring
+    C0116,  # Missing function or method docstring
