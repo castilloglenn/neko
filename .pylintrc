@@ -3,3 +3,5 @@
 disable=
     C0114,  # Missing module docstring
     C0116,  # Missing function or method docstring
+    E1101,  # Instance of 'X' has no 'Y' member
+    R0903,  # Too few public methods
